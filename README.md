@@ -64,7 +64,7 @@ npm -v
 
 ```bash
 # 1. Instalar dependências
-npm install express axios 
+npm install 
 
 # 2. Configurar variáveis de ambiente
 cp .env.example .env
