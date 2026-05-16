@@ -87,7 +87,7 @@ Servidor disponível em **http://localhost:3001**.
 ## Endpoints
 
 ### `GET /api/car`
-Retorna todos os carros da API externa (`GET api/carro`).
+Retorna todos os carros da API externa (`GET api/car`).
 
 
 
